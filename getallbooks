@@ -1,4 +1,4 @@
-curl -X GET http://localhost:5000/
+theia@theia-greeenrabbit:/home/project$ curl -X GET http://localhost:5000/
 {
     "books": {
         "1": {
